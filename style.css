@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f2f6fc;
+    margin: 0;
+    padding: 40px 20px;
+}
+
+h1 {
+    color: #173b70;
+}
+
+p {
+    color: #444;
+    font-size: 18px;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin: 30px auto;
+}
+
+.cards a {
+    text-decoration: none;
+    background-color: #2457a7;
+    color: white;
+    padding: 18px;
+    border-radius: 8px;
+}
+
+.cards a:hover {
+    background-color: #163b78;
+}
+
+.note {
+    font-size: 14px;
+    margin-top: 30px;
+}
