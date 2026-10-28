@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f6f8;
+}
+
+main {
+    padding: 40px 20px;
+}
+
+main a {
+    color: #2457a7;
+    text-decoration: none;
+}
+
+.site-footer {
+    background-color: #202c3c;
+    color: white;
+    padding: 35px 20px;
+    margin-top: 30px;
+}
+
+.site-footer h2 {
+    color: #ffd166;
+}
+
+.site-footer p {
+    font-size: 15px;
+}
+
+.copyright {
+    border-top: 1px solid #667080;
+    padding-top: 15px;
+}
